@@ -1,5 +1,5 @@
 export default {
-  products: [
+    "products": [
     {
       _id: '1',
       name: 'Hiskywin Full Zip Running Shirts Thermal Workout',
@@ -20,7 +20,6 @@ export default {
       brand: 'Nike',
       rating: 5,
       numReviews: 51,
-      countInStock: 6,
     },
     {
       _id: '3',
