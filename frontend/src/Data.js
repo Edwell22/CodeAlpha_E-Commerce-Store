@@ -1,5 +1,5 @@
 export default {
-  products: [
+    "products": [
     {
       _id: '1',
       name: 'Hiskywin Full Zip Running Shirts Thermal Workout',
